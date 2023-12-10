@@ -1,0 +1,17 @@
+Tooltip_FR = {
+  Tooltip_Small_White_Garage_Door = "Une porte de garage blanche de plus petite taille",
+  Tooltip_Small_Green_Garage_Door = "Une porte de garage verte de plus petite taille",
+  Tooltip_Small_Grey_Garage_Door = "Une porte de garage grise de plus petite taille",
+  Tooltip_Small_Rolling_Garage_Door = "Une porte de garage roulante de plus petite taille",
+  Tooltip_Small_Red_Window_Garage_Door = "Une porte de garage rouge à fenêtre de plus petite taille",
+  Tooltip_Small_Gray_Window_Garage_Door = "Une porte de garage grise à fenêtre de plus petite taille",
+  Tooltip_Large_White_Garage_Door = "Une porte de garage blanche légèrement plus grande",
+  Tooltip_Large_Green_Garage_Door = "Une porte de garage verte légèrement plus grande",
+  Tooltip_Large_Grey_Garage_Door = "Une porte de garage grise légèrement plus grande",
+  Tooltip_Large_Rolling_Garage_Door = "Une porte de garage roulante légèrement plus grande",
+  Tooltip_Large_Red_Window_Garage_Door = "Une porte de garage rouge à fenêtre légèrement plus grande",
+  Tooltip_Large_Gray_Window_Garage_Door = "Une porte de garage grise à fenêtre légèrement plus grande",
+  Tooltip_Fancy_Eye_Door = "Tu ne peux pas m'échapper du regard...",
+  Tooltip_Fancy_Scull_Door = "Où ai-je déjà entendu cela ?",
+  Tooltip_Fancy_Zombie_Door = "Peut-être qu'ils accepteront cette porte comme l'une des leurs ?",
+}
